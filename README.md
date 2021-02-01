@@ -1,6 +1,8 @@
 ## I'm beginning free Code Class' Project Euler Challenge! 
 
 # 
+#
+#
 
 ### Here's an explanation:👨🏼‍💻
 
